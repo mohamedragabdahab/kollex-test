@@ -6,6 +6,9 @@
       "kollex\\": "src/"
     }
   },
+  "autoload-dev": {
+    "KollexTest\\": "tests/KollexTest"
+  },
   "require": {
     "php": ">=7.0",
     "ext-json": "*"
